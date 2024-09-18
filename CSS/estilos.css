@@ -9,3 +9,7 @@ h1 {
        
     padding-bottom: 10px; /* Añade espacio entre el texto y la línea */
     }
+    p {
+        text-align: center;
+        text-shadow: 2px 2px 5px rgba(128, 128, 128, 0.5); /* sombra gris clara */
+      }
