@@ -1,0 +1,11 @@
+h1 {
+    
+   
+    font-family: sans-serif;
+        
+       
+    border-bottom: 1px solid black; /* Añade una línea debajo del título */
+        
+       
+    padding-bottom: 10px; /* Añade espacio entre el texto y la línea */
+    }
